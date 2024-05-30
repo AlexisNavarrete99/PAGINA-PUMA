@@ -1,0 +1,126 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+    font-size: 53px;
+    margin: 0;
+    margin-top: 23px;
+    color: aliceblue;
+    font-weight:800;
+    
+}
+p{
+    color: aliceblue;
+    font-weight:800;
+}
+.secction1{
+    background-color: brown;
+    padding: 95px;;
+    background-image: url(src/bg1.jpg);
+    
+   
+}
+button{
+    background-color: rgb(255, 255, 255);
+    padding: 13px;
+    border: none;
+    border-radius: 3px;
+    text-align: center;
+    align-items: center;
+    font-weight: 800;
+}
+button:hover{
+    background-color: rgb(183, 184, 192);
+    color: rgb(5, 5, 5);
+}
+.secction2{
+    text-align: center;
+    padding: 95px;
+    background-image: url(src/pngsec2.jpg);
+}
+h1{
+    font-size: 53px;
+    margin: 3px;
+    color: rgb(245, 240, 240);
+}
+h2{
+    text-align: center;
+    color: aliceblue;
+}
+#todopara{
+    text-align: center;
+    color: black;
+}
+.caption{
+    font-family: 'Courier New', Courier, monospace;
+  background-color: black;
+
+}
+.button1{
+    background-color: rgb(17, 18, 19);
+    color: aliceblue;
+    padding: 13px;
+    border: none;
+    border-radius: 3px;
+    align-items: center;
+    font-weight: 800;
+}
+#trajes{
+text-align: justify;
+color: black;
+}
+#shorts{
+    text-align: justify;
+    color: black;
+}
+.button2{
+    background-color:rgb(17, 18, 19);
+    color: aliceblue;
+    padding: 13px;
+}
+#playera{
+    text-align: justify;
+    color: black;
+}
+.button4{
+background-color: rgb(17, 18, 19);
+color: aliceblue;
+padding: 13px
+}
+.imagen2{
+    margin-top: -510px;
+    margin-left: 500px;
+}
+.imagen3{
+    margin-top: -520px;
+    margin-left: 1000px;
+}
+.secction3{
+    text-align:center;
+    align-self: flex-end;
+    padding: 230px;
+    background-image: url(src/landing_header_kop.jpg);
+}
+.CLASIC{
+    color: black;
+}
+.TENISP{
+    text-align: justify;
+    color: black;
+}
+.button-3{
+    background-color: rgb(17, 18, 19);
+    color: aliceblue;
+    padding: 13px;
+}
+.imagen-4{
+    margin-top: -510px;
+    margin-left: 500px;
+}
+.imagen-5{
+    margin-top: -520px;
+    margin-left: 1000px;
+}
+
+
+
